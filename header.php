@@ -14,4 +14,7 @@
         <li><a href="h1.php">Harjoitus 1</a></li>
         <li><a href="h2.php">Harjoitus 2</a></li>
         <li><a href="h3.php">Harjoitus 3</a></li>
+        <li><a href="h4.php">Harjoitus 4</a></li>
+        <li><a href="h5.php">Harjoitus 5</a></li>
+        <li><a href="h6.php">Harjoitus 6</a></li>
 </nav>
