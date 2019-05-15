@@ -1,0 +1,22 @@
+h1, footer {
+    background: rgb(189, 187, 187);
+    padding: 2em;
+    text-align: center;
+    font-family: monospace;
+}
+
+body {
+    background-clip: padding-box;
+    background-position: center;
+}
+
+nav {
+    text-align: center;
+    font-size: initial;
+}
+
+header {
+    font-family: monospace;
+}
+
+
